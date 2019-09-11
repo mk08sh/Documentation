@@ -13,12 +13,14 @@ module.exports = {
 
 
       {
-        title: 'Inspector',
+        title: 'Super Admin',
         collapsable: false,
         children: [
-          '/guide/',
-          '/superAdmin/',
-          '/basicAdmin/',
+          // '/guide/',
+          '/Admin-1/',
+          '/Admin-1.1/',
+          '/Admin-1.2/'
+
         ]
       },
 

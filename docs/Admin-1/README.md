@@ -1,18 +1,12 @@
-# Basic Admin
+# Admin Login
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
-Current route is: {{ $route.path }}
+
 
 *Italic*, **bold**, and `monospace`
 
-```js
-<script>
-  const foo = 'bar';
-  console.log(foo);
-</script>
 
-```
 
 Itemized lists look like:
 
@@ -29,21 +23,11 @@ Itemized lists look like:
 ## Sign-in Process
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-![An image](./idir-sign-in.png)
 
-## Review recent Applicants 
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-![An image](./admin.jpg)
-
-
-
+![An image](./idir-landing.png)
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
+![An image](./idir-login.png)
 
-
-### h3 Subheading
 

@@ -4,7 +4,7 @@ heroImage: /hero.png
 heroText: CATS AND DOGS 
 tagline: Hero subtitle
 actionText: Get Started →
-actionLink: /superAdmin/
+actionLink: /Admin-1/
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
