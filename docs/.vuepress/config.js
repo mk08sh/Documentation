@@ -1,6 +1,6 @@
 module.exports = {
   plugins: ['@vuepress/back-to-top', '@vuepress/medium-zoom'],
-  title: 'Hello VuePress',
+  title: 'DCBR Documentation',
   description: 'Just playing around',
   themeConfig: {
     lastUpdated: 'Last Updated',
@@ -10,36 +10,18 @@ module.exports = {
 
     ],
     sidebar: [
+
+
       {
-        title: 'Super Admin',   // required
-        path: '/foo/',      // optional, which should be a absolute path.
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
+        title: 'Inspector',
+        collapsable: false,
         children: [
           '/guide/',
-          '/installation/',
-          '/advanced/',
+          '/superAdmin/',
+          '/basicAdmin/',
         ]
       },
-      {
-        title: 'Super Admin',   // required
-        path: '/foo/',      // optional, which should be a absolute path.
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
-          '/guide/',
-          '/installation/',
-          '/advanced/',
-        ]
-      },
-      {
-        title: 'Admin',
-        children: [
-          '/installation/',
-          '/advanced/',
-          '/guide/',
-        ]
-      }
+
     ]
   }
 }

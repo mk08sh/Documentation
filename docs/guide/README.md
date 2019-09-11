@@ -1,4 +1,4 @@
-# Admin
+#  Guide
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
@@ -14,36 +14,4 @@ Current route is: {{ $route.path }}
 
 ```
 
-Itemized lists look like:
-
-  * this one
-  * that one
-  * the other one
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## This is a sub heading
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-
-## Another subheading
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-![An image](./admin.jpg)
-
-
-
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-
-### h3 Subheading
 
