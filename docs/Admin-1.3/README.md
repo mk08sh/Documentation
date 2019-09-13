@@ -1,86 +1,73 @@
-# Addresses
+# Animal Risk Factors
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
 
 
-## Addresses Dashboard 
+
+## Animal Risk  Dashboard
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
-![An image](./Address-Dashboard.png)
+![An image](./AnimalRisk-Dashboard.png)
 
-
-## Addresses Action
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-![An image](./Address-Action.png)
-
-
-
-## Addresses Add
+## Animal Risk  Action
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
-![An image](./Address-Add.png)
+![An image](./AnimalRisk-Action.png)
 
-
-## Addresses Type
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-![An image](./Address-Type.png)
-
-
-
-## Addresses Error
+## Animal Risk Add
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
-::: tip
-All fields are required except "Suite" 
-:::
-
-![An image](./Address-Error.png)
+![An image](./AnimalRisk-Add.png)
 
 
 
-## Addresses Export
+## Animal Risk  Type
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
+
+![An image](./AnimalRisk-Type.png)
+
+
+## Animal Risk  Error
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
+
+![An image](./AnimalRisk-Error.png)
+
+
+
+## Animal Risk Export
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
 ::: warning
-Exporting of addresses will apply to all addresses and can not be selected individually for exporting
+Exporting of Animal Risk Factors  will apply to all Animal Risk Factors and can not be selected individually for exporting
 :::
 
-![An image](./Address-Export.png)
+![An image](./AnimalRisk-Export.png)
 
 
 
-## Addresses History
+## Animal Risk History
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
+
 ::: tip
 History only records changes type and user who has made those changes 
 :::
 
-
-![An image](./Address-History.png)
-
+![An image](./AnimalRisk-History.png)
 
 
 
-![An image](./Address-History-1.png)
-
-
-
-
-## Addresses Delete
+## Animal Risk Delete
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
 ::: warning
 Deleting an address will permanently delete the record with no restore options!
 :::
-
-![An image](./Address-Delete.png)
+![An image](./AnimalRisk-Delete.png)

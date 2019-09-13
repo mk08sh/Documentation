@@ -1,39 +1,39 @@
-# Addresses
+# Associations
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
 
 
-## Addresses Dashboard 
+## Associations Dashboard 
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
-![An image](./Address-Dashboard.png)
+<!-- ![An image](./Address-Dashboard.png) -->
 
 
-## Addresses Action
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
-
-![An image](./Address-Action.png)
-
-
-
-## Addresses Add
+## Associations Action
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
-![An image](./Address-Add.png)
+<!-- ![An image](./Address-Action.png) -->
 
 
-## Addresses Type
+
+## Associations Add
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
-![An image](./Address-Type.png)
+<!-- ![An image](./Address-Add.png) -->
+
+
+## Associations Type
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
+
+<!-- ![An image](./Address-Type.png) -->
 
 
 
-## Addresses Error
+## Associations Error
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
@@ -41,11 +41,11 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem b
 All fields are required except "Suite" 
 :::
 
-![An image](./Address-Error.png)
+<!-- ![An image](./Address-Error.png) -->
 
 
 
-## Addresses Export
+## Associations Export
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
@@ -53,11 +53,11 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem b
 Exporting of addresses will apply to all addresses and can not be selected individually for exporting
 :::
 
-![An image](./Address-Export.png)
+<!-- ![An image](./Address-Export.png) -->
 
 
 
-## Addresses History
+## Associations History
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 ::: tip
@@ -65,17 +65,17 @@ History only records changes type and user who has made those changes
 :::
 
 
-![An image](./Address-History.png)
+<!-- ![An image](./Address-History.png) -->
 
 
 
 
-![An image](./Address-History-1.png)
+<!-- ![An image](./Address-History-1.png) -->
 
 
 
 
-## Addresses Delete
+## Associations Delete
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem beatae. Eligendi obcaecati pariatur facilis non, consequatur reiciendis voluptate deserunt quo omnis. Ab aspernatur repellendus maxime, sapiente aut recusandae.
 
@@ -83,4 +83,4 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum veritatis autem b
 Deleting an address will permanently delete the record with no restore options!
 :::
 
-![An image](./Address-Delete.png)
+<!-- ![An image](./Address-Delete.png) -->
