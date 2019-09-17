@@ -14,7 +14,7 @@ module.exports = {
 
       {
         title: 'Super Admin',
-        collapsable: false,
+        collapsable: true,
         children: [
           // '/guide/',
           '/Admin-1/',
